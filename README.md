@@ -6,4 +6,3 @@ with the function imwrite, it will generate 2 new image for next step.
 second, use wavelet edge file, with name in imread, just fill in the name, guass.jpg and impluse.jpg, it will generate different results for differnet levels.
 for results, in all gauss results,use # to  delete the threshold in (wavelet edge.py), edge2 is the results, in all impluse results, edge3 is the results
 
-failed filter.py is just the failed code for filter.
